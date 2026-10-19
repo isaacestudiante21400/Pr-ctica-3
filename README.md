@@ -7,14 +7,11 @@
 ### 1. Crear directorio y acceder
 ![Captura](capturas/1.base_preparacion_entorno/1.png)
 
-### 2. Configurar main e inicializar el repositorio
-![Captura](img/prep-2.png)
+### 2. Crear `index.html`
+![Captura](capturas/1.base_preparacion_entorno/2.png)
 
-### 3. Crear `index.html`
-![Captura](img/prep-3.png)
-
-### 4. Añadir y confirmar
-![Captura](img/prep-4.png)
+### 3. Añadir y confirmar
+![Captura](capturas/1.base_preparacion_entorno/3.png)
 
 ---
 
