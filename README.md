@@ -18,19 +18,20 @@
 ## Parte 1: Desarrollo en paralelo
 
 ### 1. Crear las tres ramas
-![Captura](img/p1-1.png)
+![Captura](capturas/2.desarrollo_proyecto_parte1/1.png)
+![Captura](capturas/2.desarrollo_proyecto_parte1/2.png)
 
-### 2. Comprobar ramas
-![Captura](img/p1-2.png)
+### 2. Rama `cabecera`
+![Captura](capturas/2.desarrollo_proyecto_parte1/3.png)
+![Captura](capturas/2.desarrollo_proyecto_parte1/4.png)
 
-### 3. Rama `cabecera`
-![Captura](img/p1-3.png)
+### 3. Rama `contenido`
+![Captura](capturas/2.desarrollo_proyecto_parte1/5.png)
+![Captura](capturas/2.desarrollo_proyecto_parte1/6.png)
 
-### 4. Rama `contenido`
-![Captura](img/p1-4.png)
-
-### 5. Rama `pie`
-![Captura](img/p1-5.png)
+### 4. Rama `pie`
+![Captura](capturas/2.desarrollo_proyecto_parte1/7.png)
+![Captura](capturas/2.desarrollo_proyecto_parte1/8.png)
 
 ---
 
