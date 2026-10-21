@@ -90,4 +90,4 @@ En la Parte 2 no pasa porque con cada rama se ha creado un archivo diferente (he
 
 ### Al ejecutar `git switch main` en la Parte 3.2, ¿qué ocurrió con los archivos del directorio de trabajo?
 
-Al hacer git switch main, Git mueve HEAD para que apunte a main y cambia los archivos de la carpeta para que coincidan con el último commit de esa rama. Por eso, el index.html vuelve a tener el <h1> de antes del rediseño, el c5. Ese cambio no se pierde, sigue guardado en el commit C6 de la rama rediseño, y reaparece si vuelvo a esa rama.
+Al hacer git switch main, Git mueve HEAD para que apunte a main y cambia los archivos de la carpeta para que coincidan con el último commit de esa rama. Por eso, el index.html vuelve a tener el h1 de antes del rediseño, el c5. Ese cambio no se pierde, sigue guardado en el commit C6 de la rama rediseño, y reaparece si vuelvo a esa rama.
