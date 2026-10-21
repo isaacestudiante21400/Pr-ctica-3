@@ -37,20 +37,14 @@
 
 ## Parte 2: Integración (fusiones sin conflicto)
 
-### 1. Volver a main
-![Captura](img/p2-1.png)
+### 1. Fusionar las ramas
+![Captura](capturas/3.desarrollo_proyecto_parte2/1.png)
 
-### 2. Fusionar las ramas
-![Captura](img/p2-2.png)
+### 2. Unificar el código en `index.html`
+![Captura](capturas/3.desarrollo_proyecto_parte2/2.png)
 
-### 3. Unificar el código en `index.html`
-![Captura](img/p2-3.png)
-
-### 4. Commit de consolidación
-![Captura](img/p2-4.png)
-
-### 5. Eliminar las ramas de desarrollo
-![Captura](img/p2-5.png)
+### 3. Commit de consolidación y eliminar las ramas de desarrollo
+![Captura](capturas/3.desarrollo_proyecto_parte2/3.png)
 
 ---
 
