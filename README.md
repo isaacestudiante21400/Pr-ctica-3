@@ -86,11 +86,8 @@
 ### ¿Por qué ocurrió el conflicto en la Parte 3 y no en la Parte 2?
 
 En la Parte 3 hubo conflicto porque main y rediseño cambiaron la misma línea de index.html, el h1, partiendo del mismo punto. Al intentar fusionarlas, Git compara las dos versiones con la original y se encuentra con dos cambios distintos en el mismo sitio. Como no sabe cuál de los dos es el bueno, no fusiona y te deja unas marcas donde hay error.
-
 En la Parte 2 no pasa porque con cada rama se ha creado un archivo diferente (header.html, content.html y footer.html). Al no tocar ninguna las mismas líneas, los cambios no se superponen entre sí y Git los puede juntar sin errores.
 
 ### Al ejecutar `git switch main` en la Parte 3.2, ¿qué ocurrió con los archivos del directorio de trabajo?
 
-Al hacer git switch main, Git mueve HEAD para que apunte a main y cambia los archivos de la carpeta para que coincidan con el último commit de esa rama. Por eso, el index.html vuelve a tener el <h1> de antes del rediseño, el c5.
-
-Ese cambio no se pierde, sigue guardado en el commit C6 de la rama rediseño, y reaparece si vuelvo a esa rama.
+Al hacer git switch main, Git mueve HEAD para que apunte a main y cambia los archivos de la carpeta para que coincidan con el último commit de esa rama. Por eso, el index.html vuelve a tener el <h1> de antes del rediseño, el c5. Ese cambio no se pierde, sigue guardado en el commit C6 de la rama rediseño, y reaparece si vuelvo a esa rama.
